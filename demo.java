@@ -5,3 +5,6 @@ class Demo
 		s.o.print(" Hello world ")
 	}
 }
+
+
+......MAIN-CODE......
