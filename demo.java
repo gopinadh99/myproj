@@ -7,4 +7,8 @@ class Demo
 }
 
 
+<<<<<< HEAD
 ......MAIN-CODE......
+
+......BRANCH CODE......
+>>>>>>> dev
